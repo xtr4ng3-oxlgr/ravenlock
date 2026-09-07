@@ -5,8 +5,6 @@
 **RAVENLOCK** es un centinela local de integridad para carpetas personales.  
 Crea una línea base de archivos, coloca canarios defensivos y detecta alteraciones masivas, borrados, modificaciones, extensiones sospechosas y cambios sobre archivos canario.
 
-Creado por **xtr4ng3**.
-
 ---
 
 ## Propósito
