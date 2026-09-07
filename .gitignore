@@ -1,0 +1,21 @@
+# Rust
+/target
+Cargo.lock.bak
+**/*.rs.bk
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Windows build output
+/build_windows/dist/
+/build_windows/build/
+
+# RAVENLOCK runtime data (baselines, canary state)
+*.db
+/baseline/
