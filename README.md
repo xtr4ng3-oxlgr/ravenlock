@@ -1,5 +1,5 @@
 # RAVENLOCK
-
+![Build](https://github.com/xtr4ng3-oxlgr/ravenlock/actions/workflows/build.yml/badge.svg)
 <img width="1448" height="1086" alt="ravenlockv2" src="https://github.com/user-attachments/assets/01dca8b9-0b09-42ed-af10-63457048652d" />
 
 **RAVENLOCK** es un centinela local de integridad para carpetas personales.  
