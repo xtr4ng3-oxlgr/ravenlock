@@ -1,7 +1,6 @@
 # RAVENLOCK
 
-<img width="1448" height="1086" alt="raven" src="https://github.com/user-attachments/assets/5a801d77-a42c-480c-a2ae-a6fda12d43a5" />
-
+<img width="1448" height="1086" alt="ravenlockv2" src="https://github.com/user-attachments/assets/01dca8b9-0b09-42ed-af10-63457048652d" />
 
 **RAVENLOCK** es un centinela local de integridad para carpetas personales.  
 Crea una línea base de archivos, coloca canarios defensivos y detecta alteraciones masivas, borrados, modificaciones, extensiones sospechosas y cambios sobre archivos canario.
@@ -153,7 +152,7 @@ target\release\ravenlock.exe
 ---
 # Licencia
 
-<img width="300" height="159" alt="giphy (25)" src="https://github.com/user-attachments/assets/021720ff-3aec-4916-9a93-25d47afd7d97" />
+<img width="300" height="159" alt="xtr4ng3" src="https://github.com/user-attachments/assets/e370c7f0-88d4-4e14-b3d1-6ffe86517cd5" />
 
 **xtr4ng3**
 
